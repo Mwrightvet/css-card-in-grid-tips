@@ -1,3 +1,7 @@
+# Deployed Draft Project Progress 
+https://mwrightvet.github.io/css-card-in-grid-tips/ 
+
+
 # css-card-in-grid-tips
 
 Worked on how to use flexbox columns, grid containers and more.
